@@ -1,0 +1,15 @@
+main{
+    display: flex;
+    direction: column;
+    justify-content: center;
+    flex-wrap: wrap;
+    
+}
+section{
+   
+   width: 100%
+}
+p {
+    margin-bottom: 100%;
+    text-align: center;
+}

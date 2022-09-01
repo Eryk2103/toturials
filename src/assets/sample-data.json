@@ -1,0 +1,86 @@
+[
+    {
+        "name" : "Ball juggle",
+        "stars" : 1,
+        "dificulty" : "easy",
+        "gif" : "https://www.youtube.com/embed/Ly9H8NFsId4?autoplay=1&mute=1&controls=0",
+        "xboxControls" : "LT + RB(Tap)"
+    },
+    {
+        "name" : "Bridge Skill",
+        "stars" : 1,
+        "dificulty" : "easy",
+        "gif" : "https://utstore.blob.core.windows.net/utwebapp/gif_skills/ball-hop_AdobeExpress.gif",
+        "xboxControls" : "RB (Double Tap)"
+    },
+    {
+        "name" : "Directional Nutmeg",
+        "stars" : 1,
+        "dificulty" : "hard",
+        "gif" : "https://utstore.blob.core.windows.net/utwebapp/gif_skills/ball-hop_AdobeExpress.gif",
+        "xboxControls" : "LB (Hold) + RB + Right Stick (Direction)"
+    },
+    {
+        "name" : "Open Up Fake Shot Left",
+        "stars" : 1,
+        "dificulty" : "medium",
+        "gif" : "https://utstore.blob.core.windows.net/utwebapp/gif_skills/ball-hop_AdobeExpress.gif",
+        "xboxControls" : "LB (Hold) + X or B then A + Left Stick Left Diagonal"
+    },
+    {
+        "name" : "Open Up Fake Shot Right",
+        "stars" : 1,
+        "dificulty" : "easy",
+        "gif" : "https://utstore.blob.core.windows.net/utwebapp/gif_skills/ball-hop_AdobeExpress.gif",
+        "xboxControls" : "LB (Hold) + X or B then A + Left Stick Right Diagonal"
+    },
+    {
+        "name" : "Flick Up for Volley",
+        "stars" : 1,
+        "dificulty" : "easy",
+        "gif" : "https://utstore.blob.core.windows.net/utwebapp/gif_skills/ball-hop_AdobeExpress.gif",
+        "xboxControls" : "LB (Hold) + Right Stick (Press)"
+    },
+    {
+        "name" : "Feint Forward and Turn ",
+        "stars" : 2,
+        "dificulty" : "easy",
+        "gif" : "https://utstore.blob.core.windows.net/utwebapp/gif_skills/ball-hop_AdobeExpress.gif",
+        "xboxControls" : "Right Stick (Flick) Down (x2)"
+    },
+    {
+        "name" : "Body Feint Right",
+        "stars" : 2,
+        "dificulty" : "easy",
+        "gif" : "https://utstore.blob.core.windows.net/utwebapp/gif_skills/ball-hop_AdobeExpress.gif",
+        "xboxControls" : "Right Stick (Flick) Right"
+    },
+    {
+        "name" : "Body Feint Right Left",
+        "stars" : 2,
+        "dificulty" : "easy",
+        "gif" : "https://utstore.blob.core.windows.net/utwebapp/gif_skills/ball-hop_AdobeExpress.gif",
+        "xboxControls" : "Right Stick (Flick) Left"
+    },
+    {
+        "name" : "step over right",
+        "stars" : 2,
+        "dificulty" : "easy",
+        "gif" : "https://utstore.blob.core.windows.net/utwebapp/gif_skills/ball-hop_AdobeExpress.gif",
+        "xboxControls" : "Right Stick Right"
+    },
+    {
+        "name" : "step over left",
+        "stars" : 2,
+        "dificulty" : "easy",
+        "gif" : "https://utstore.blob.core.windows.net/utwebapp/gif_skills/ball-hop_AdobeExpress.gif",
+        "xboxControls" : "Right Stick left"
+    },
+    {
+        "name" : "Reverse Stepover right",
+        "stars" : 2,
+        "dificulty" : "easy",
+        "gif" : "https://utstore.blob.core.windows.net/utwebapp/gif_skills/ball-hop_AdobeExpress.gif",
+        "xboxControls" : "Right Stick left"
+    }
+]

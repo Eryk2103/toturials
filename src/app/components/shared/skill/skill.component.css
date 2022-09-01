@@ -1,0 +1,28 @@
+.gif{
+    width: 100%;
+    aspect-ratio: 16 / 9;
+}
+.best-skills {
+    border: 1px solid gray;
+    margin: 0 1rem 1rem;
+    border-radius: 0.5rem;
+    padding: 0.7rem;
+    max-width: 640px;
+    background-color: white;
+}
+
+.skill-info {
+    margin: 0.3em 0;
+}
+.dificulty{
+    padding-left: 0.3em
+}
+.dificulty::before{
+    content: '(';
+}
+.dificulty::after{
+    content: ')';
+}
+.wrapper{
+    text-align: center;
+}

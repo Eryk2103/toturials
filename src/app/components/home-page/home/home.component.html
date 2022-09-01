@@ -1,0 +1,13 @@
+<div class="main-wrapper">
+
+<main>
+<section>
+    <h2>Top 3 skills u must learn</h2>
+    <div class="article-wrapper">
+        <ng-container *ngFor="let skill of skills">
+            <app-skill [skill]="skill"></app-skill>
+        </ng-container>
+    </div>
+</section>
+</main>
+</div>

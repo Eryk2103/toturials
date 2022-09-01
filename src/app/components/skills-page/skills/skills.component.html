@@ -1,0 +1,17 @@
+<div class="main-wrapper">
+    
+<main>
+    <section>
+        <app-filter-skills [skills]="skills" (filteredSkills)="filter($event)"></app-filter-skills>
+    </section>
+    <section>
+        <div class="article-wrapper" *ngIf="displayed.length > 0">
+            <ng-container *ngFor="let skill of displayed">
+                <app-skill [skill]="skill"></app-skill>
+            </ng-container>
+        </div>
+        <p *ngIf="displayed.length === 0">No skills match your criteria</p>
+        <img >
+    </section>
+</main>
+</div>
