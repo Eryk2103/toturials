@@ -12,6 +12,8 @@ import { SkillsComponent } from './components/skills-page/skills/skills.componen
 import { FilterSkillsComponent } from './components/skills-page/filter-skills/filter-skills.component';
 import { ReactiveFormsModule } from '@angular/forms';
 import { SafeUrlPipe } from './safe-url.pipe';
+import { BrowserAnimationsModule } from '@angular/platform-browser/animations';
+import { MaterialModule } from './material/material.module';
 
 @NgModule({
   declarations: [
@@ -28,7 +30,9 @@ import { SafeUrlPipe } from './safe-url.pipe';
     BrowserModule,
     AppRoutingModule,
     HttpClientModule,
-    ReactiveFormsModule
+    ReactiveFormsModule,
+    BrowserAnimationsModule,
+    MaterialModule
   ],
   providers: [],
   bootstrap: [AppComponent]

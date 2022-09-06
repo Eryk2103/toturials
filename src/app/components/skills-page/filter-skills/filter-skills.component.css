@@ -2,7 +2,7 @@ select{
     text-transform: uppercase;
 }
 select:hover{
-    background-color: #23395d;
+    background-color: var(--primary);
     color: white;
 }
 
@@ -14,7 +14,7 @@ input, select{
     padding: 0;
     height: 3rem;
     padding: 0.5rem;
-    border: 1px solid #23395d;
+    border: 1px solid;
     text-align: center;
 }
 form{

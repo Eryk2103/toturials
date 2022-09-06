@@ -1,5 +1,7 @@
 @import url('https://fonts.googleapis.com/css2?family=Roboto&display=swap');
-
+:root {
+    --primary: #6d23b6;
+}
 body{
     font-family: 'Roboto', sans-serif;
     padding: 0;
@@ -34,3 +36,5 @@ html{
 *, *:before, *:after {
     box-sizing: inherit;
   }
+html, body { height: 100%; }
+body { margin: 0; font-family: Roboto, "Helvetica Neue", sans-serif; }

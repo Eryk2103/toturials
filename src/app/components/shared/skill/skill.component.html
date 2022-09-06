@@ -2,7 +2,7 @@
     <h3>{{skill.name}}</h3>
     <p class="skill-info"><span [innerHtml]="generateStars(skill.stars)"></span><span class="dificulty">{{skill.dificulty}}</span></p>
     <div class="wrapper">
-        <img class="gif" [src]="skill.gif" loading="lazy">
+        <img class="gif" [src]="skill.gif" loading="lazy" onerror="this.src='./assets/404.png'">
         <p>{{skill.xboxControls}}</p>
     </div>
 </article>

@@ -1,7 +1,7 @@
 
 footer{
     display: flex;
-    background-color: #23395d;
+    background-color: var(--primary);
     color: white;
     padding: 1rem;
 }

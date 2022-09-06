@@ -1,11 +1,11 @@
 <header>
-    <h1 class="logo">Ultimate team toturials</h1>
-  <nav>
-    <ul>
-        <li><a href="/home" >Home</a></li>
-        <li><a routerLink="/skills">Skills</a></li>
-    </ul>
-  </nav>
-  </header>
+    <button mat-button [matMenuTriggerFor]="menu"><mat-icon>menu</mat-icon></button>
+    <mat-menu #menu="matMenu">
+    <button mat-menu-item routerLink="home">Home</button>
+    <button mat-menu-item routerLink="skills">Skills</button>
+  </mat-menu>
+  <button mat-button id="platform" (click)="displayPlatform()"><mat-icon>devices</mat-icon></button>
+</header>
+
 
   
