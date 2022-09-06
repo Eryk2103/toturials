@@ -8,7 +8,7 @@ import { Skill } from '../models/skill';
 })
 export class SkillService {
 
-  readonly url = 'https://uttoturialsapi.azurewebsites.net/api/Skill';
+  readonly url = 'http://13.37.212.133:8080/skills';
 
   constructor(private http: HttpClient) { }
 
